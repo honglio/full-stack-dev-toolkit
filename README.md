@@ -21,6 +21,10 @@ Debug Javascript & CSS in all platform.
 + **[Android](https://developers.google.com/web/tools/chrome-devtools/debug/?utm_source=dcc&utm_medium=redirect&utm_campaign=2016q3)**: Google Chrome DevTool.
 + **[All](http://people.apache.org/~pmuellr/weinre/docs/latest/)**: Debug web pages on any mobile device.
 
+## Editor
+
++ **[SublimeText](https://github.com/mrmartineau/SublimeTextSetupWiki/wiki/Front-end-specific-Packages)**: a list of all the good packages for front-end development.
+
 ## Hybrid App
 
 + **[Aliyun test](http://itest.aliyun.com/home?type=msg)**: functional testing automata.
