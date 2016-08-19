@@ -96,6 +96,14 @@ H5 Video in Webview.
 + **[OnsenUI](https://onsen.io/v2/docs/js.html)**: OnsenUI Doc.
 + **[Vue.js](http://vuejs.org.cn/guide/list.html)**: Vue.js guide.
 
+## WevApp design and examples
+
++ **[Design](https://graphicriver.net/item/idealogic-flat-mobile-app-ui-design/8294953?ref=premiumtemplates&ref=premiumtemplates&clickthrough_id=725810062&redirect_back=true)**: Flat Mobile App UI Design.
++ **[Grade](http://market.designmodo.com/grade/?u=2038)**: Designmodo UI Kit.
++ **[Dribbble](https://dribbble.com/shots/1133896-WIP-fitness-app-iOS-7)**: WIP fitness app iOS 7.
++ **[Nirvana](https://www.nirvanahq.com/)**: ToDo App.
++ **[voxmedia](http://apps.voxmedia.com/tools/meme/sbnation/)**: Twitter Image Builder.
+
 [NodeSchool](http://nodeschool.io/)
 
 [TODOMVC](http://todomvc.com/examples/react/)
