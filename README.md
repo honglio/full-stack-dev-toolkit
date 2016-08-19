@@ -38,16 +38,16 @@ Web page speed go fast.
 + **[jQuery Rules](http://www.artzstudio.com/2009/04/jquery-performance-rules/)**
 + **[Web Rendering](http://frontendbabel.info/articles/webpage-rendering-101/)**: Web Rendering 101.
 + **[Retina Web](https://www.smashingmagazine.com/2012/08/towards-retina-web/)**
-+ **[Web App](http://marcgg.com/blog/2014/04/09/phonegap-steroids-hybrid-native-app-tips/)**
++ **[Web App](http://marcgg.com/blog/2014/04/09/phonegap-steroids-hybrid-native-app-tips/)**: Tips & Tricks Learned Releasing an Hybrid App.
 
-## Ecosystem
+## Node.js
 
-Important developers, companies, organizations and news sources.
+Important Web Server.
 
-+ **[Communities Around Projects](ecosystem/communities-around-projects.md)**: Successful open source projects attract many developers who produce plugins, libraries, tutorials and other resources. This section collects such resources.
-+ **[News](ecosystem/news.md)**: Websites & newsletters which provide daily and weekly news related to frontend web development.
-+ **[Notable Community Members](ecosystem/notable-community-members.md)**: Important engineers, evangelists, architects and other celebrities.
-+ **[Organizations](ecosystem/organizations.md)**: Commercial companies and nonprofit organizations around web development.
++ **[Passport](http://passportjs.org/)**: Simple, unobtrusive authentication for Node.js.
++ **[QQ互联API](http://connect.qq.com/manage/login)**
++ **[微博开放平台API](http://open.weibo.com/wiki/2/users/show)**
++ **[Linkedin开放平台](https://www.linkedin.com/developer/apps/4655291/usage)**
 + **[Podcasts](ecosystem/podcasts.md)**: A podcast is a form of digital media that consists of an episodic series of audio, video, digital radio, PDF, or ePub files subscribed to and downloaded automatically through web syndication or streamed online to a computer or mobile device.
 
 ## Languages, Protocols, Browser APIs
