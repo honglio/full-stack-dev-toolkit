@@ -13,13 +13,18 @@ The fastest Public CDN for a website in China.
 + **[sinaapp](http://lib.sinaapp.com/)**: The Public Resources on SAE.
 + **[baiducloud](https://cloud.baidu.com/doc/index.html?title=docs/cplat/libs)**: 产品文档-百度开放云.
 
-## Architecture
+## Debug
 
-High level structure of the frontend code and the discipline of creating such structures.
+Debug Javascript & CSS in all platform.
 
-+ **[Algorithms](architecture/algorithms.md)**: A self-contained step-by-step set of operations to be performed. Algorithms perform calculation, data processing, and/or automated reasoning tasks.
-+ **[Design Patterns](architecture/design-patterns.md)**: Best practices that the programmer can use to solve common problems when designing an application or system.
-+ **[Designs](architecture/designs.md)**: Ready to use and well documented structures and frameworks for frontend development.
++ **[iOS](http://moduscreate.com/enable-remote-web-inspector-in-ios-6/)**: Enable Remote Debugging with Safari Web Inspector in iOS.
++ **[Android](https://developers.google.com/web/tools/chrome-devtools/debug/?utm_source=dcc&utm_medium=redirect&utm_campaign=2016q3)**: Google Chrome DevTool.
++ **[All](http://people.apache.org/~pmuellr/weinre/docs/latest/)**: Debug web pages on any mobile device.
+
+## Debug
+
+Debug Javascript & CSS in all platform.
+
 + **[Event-Driven Programming](architecture/event-driven-programming.md)**: Event-driven programming is a programming paradigm in which the flow of the program is determined by events such as user actions, sensor outputs, or messages from other programs/threads.
 + **[Functional Programming](architecture/functional-programming.md)**: Functional programming is a programming paradigm, that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data.
 + **[Functional Reactive Programming (FRP)](architecture/functional-reactive-programming-frp.md)**: FRP is a programming paradigm for asynchronous dataflow programming using the building blocks of functional programming.
