@@ -33,6 +33,7 @@ Debug Javascript & CSS in all platform.
 + **[Plugin Search](http://cordova.apache.org/plugins/?q=cordova-plugin-camera)**: Cordova Plugin search.
 + **[Camera Module](https://www.npmjs.com/package/cordova-plugin-camera#module_Camera)**
 + **[Ionic](http://ionicframework.com/docs/guide/publishing.html)**: Publishing your app guide.
++ **[Monaca](https://docs.monaca.io/en/quick_start/)**: Quick Start.
 
 ## Icon
 
