@@ -21,6 +21,10 @@ Debug Javascript & CSS in all platform.
 + **[Android](https://developers.google.com/web/tools/chrome-devtools/debug/?utm_source=dcc&utm_medium=redirect&utm_campaign=2016q3)**: Google Chrome DevTool.
 + **[All](http://people.apache.org/~pmuellr/weinre/docs/latest/)**: Debug web pages on any mobile device.
 
+## Hybrid App
+
++ **[Aliyun test](http://itest.aliyun.com/home?type=msg)**: functional testing automata.
+
 ## Icon
 
 + **[IconMoon](https://icomoon.io/app/#/select)**: Icon font, SVG, PDF & PNG generator.
@@ -61,6 +65,10 @@ MongoDB and SQL mapping.
 + **[Query joins](http://stackoverflow.com/questions/14363065/mongoose-mongodb-query-joins-but-i-come-from-a-sql-background)**
 + **[Mapping Relational Databases and SQL to MongoDB](http://code.tutsplus.com/articles/mapping-relational-databases-and-sql-to-mongodb--net-35650)**
 
+## Testing Automata
+
++ **[Aliyun test](http://itest.aliyun.com/home?type=msg)**: functional testing automata.
+
 ## Video
 
 H5 Video in Webview.
@@ -74,7 +82,6 @@ H5 Video in Webview.
 + **[Touch events](https://patrickhlauke.github.io/touch/tests/results/)**: a variety of devices/browsers touch event order.
 + **[Viewport Size](http://viewportsizes.com/)**: Viewport Size in a variety of devices.
 + **[Mobiscroll](https://demo.mobiscroll.com/calendar)**: a collection of Javascript UI controls which perfectly fit into webview.
-
 
 [NodeSchool](http://nodeschool.io/)
 
