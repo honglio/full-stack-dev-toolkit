@@ -35,9 +35,10 @@ Web page speed go fast.
 + **[Webmasters](https://www.google.com/webmasters/tools/mobile-friendly/)**: Mobile friendly test.
 + **[Loader.io](https://loader.io/tests)**: Web load test.
 + **[Web Tracing Framework](http://google.github.io/tracing-framework/)**: Rich tools for instrumenting, analyzing, and visualizing web apps. Make your app jank-free at 60fps!.
-+ **[Printers](compatibility/printers.md)**: Manipulation of printer output through CSS.
-+ **[Responsive Web Design (RWD)](compatibility/responsive-web-design-rwd.md)**: RWD responds to the needs of the users and the devices they’re using. The layout changes based on the size and capabilities of the device.
-+ **[Web Accessibility](compatibility/web-accessibility.md)**: Web accessibility means that people with disabilities can perceive, understand, navigate, and interact with the Web, and that they can contribute to the Web.
++ **[jQuery Rules](http://www.artzstudio.com/2009/04/jquery-performance-rules/)**
++ **[Web Rendering](http://frontendbabel.info/articles/webpage-rendering-101/)**: Web Rendering 101.
++ **[Retina Web](https://www.smashingmagazine.com/2012/08/towards-retina-web/)**
++ **[Web App](http://marcgg.com/blog/2014/04/09/phonegap-steroids-hybrid-native-app-tips/)**
 
 ## Ecosystem
 
