@@ -60,18 +60,18 @@ MongoDB and SQL mapping.
 + **[Query joins](http://stackoverflow.com/questions/14363065/mongoose-mongodb-query-joins-but-i-come-from-a-sql-background)**
 + **[Mapping Relational Databases and SQL to MongoDB](http://code.tutsplus.com/articles/mapping-relational-databases-and-sql-to-mongodb--net-35650)**
 
-## MongoDB
+## Video
 
-MongoDB and SQL mapping.
+H5 Video in Webview.
 
-+ **[HyperText Markup Language (HTML)](languages-protocols-browser-apis/hypertext-markup-language-html.md)**: HTML is the standard markup language used to create web pages and its elements form the building blocks of all websites.
-+ **[Hypertext Transfer Protocol (HTTP)](languages-protocols-browser-apis/hypertext-transfer-protocol-http.md)**: The Hypertext Transfer Protocol (HTTP) is an application protocol for distributed, collaborative, hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web.
-+ **[JavaScript (EcmaScript)](languages-protocols-browser-apis/javascript-ecmascript.md)**: JavaScript is a full-fledged dynamic programming language that, when applied to an HTML document, can provide dynamic interactivity on websites. It is defined by ECMAScript standard.
-+ **[JavaScript Object Notation (JSON)](languages-protocols-browser-apis/javascript-object-notation-json.md)**: JSON (JavaScript Object Notation) is a lightweight data-interchange format. It is easy for humans to read and write. It is easy for machines to parse and generate. It is based on a subset of the JavaScript Programming Language.
-+ **[Scalable Vector Graphics (SVG)](languages-protocols-browser-apis/scalable-vector-graphics-svg.md)**: An XML-based vector image format for two-dimensional graphics with support for interactivity and animation.
-+ **[Service Workers](languages-protocols-browser-apis/service-workers.md)**: A method that enables applications to take advantage of persistent background processing, including hooks to enable bootstrapping of web applications while offline.
-+ **[Templating Languages and Engines](languages-protocols-browser-apis/templating-languages-and-engines.md)**: Template engines are tools to separate program-logic and presentation into two independent parts. This makes the development of both logic and presentation easier, improves flexibility and eases modification and maintenance.
-+ **[Transpiled Languages](languages-protocols-browser-apis/transpiled-languages.md)**: Abstract languages converted to native, browser supported standards like JavaScript or CSS.
++ **[Stop Webview thread](http://stackoverflow.com/questions/5946698/how-to-stop-youtube-video-playing-in-android-webview)**: How to stop video playing in Android webview when back button pressed.
++ **[Video Players](https://github.com/showcases/video-tools)**
++ **[Clappr](https://github.com/clappr/clappr)**: An extensible media player for the web.
+
+## Video
+
+H5 Video in Webview.
+
 + **[Uniform Resource Identifier (URI)](languages-protocols-browser-apis/uniform-resource-identifier-uri.md)**: URI is a string of characters used to identify a resource. The most common form of URI is the Uniform Resource Locator (URL).
 + **[Web Animations API](animation/web-animations-api.md)**: Web Animations is a new JavaScript API for driving animated content on the web. By unifying the animation features of SVG and CSS, Web Animations unlocks features previously only usable declaratively, and exposes powerful, high-performance animation capabilities to developers.
 + **[WebAssembly](languages-protocols-browser-apis/webassembly.md)**: WebAssembly is meant to fill a place that JavaScript has been forced to occupy up to now: a low-level code representation that can serve as a compiler target.
