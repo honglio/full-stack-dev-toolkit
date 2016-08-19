@@ -52,6 +52,7 @@ Important Web Server.
 + **[Express Reference](http://expressjs.com/en/api.html)**: Express.js 4.X API.
 + **[Asynchronous Error Handling](https://strongloop.com/strongblog/async-error-handling-expressjs-es7-promises-generators/)**: Asynchronous Error Handling in Express with Promises, Generators and ES7.
 + **[JavaScript Callbacks](http://cwbuecheler.com/web/tutorials/2013/javascript-callbacks/)**: Unlocking the Asynchronous Powers of NodeJS.
++ **[Express 4.X RESTful APIs](http://blog.cloud66.com/how-to-deploy-restful-apis-using-node-express4-and-docker/)**: How to deploy RESTful APIs using Node, Express 4 and Docker.
 
 ## MongoDB
 
@@ -74,9 +75,6 @@ H5 Video in Webview.
 + **[Viewport Size](http://viewportsizes.com/)**: Viewport Size in a variety of devices.
 + **[Mobiscroll](https://demo.mobiscroll.com/calendar)**: a collection of Javascript UI controls which perfectly fit into webview.
 
-
-
-[How to deploy RESTful APIs using Node, Express 4 and Docker](http://blog.cloud66.com/how-to-deploy-restful-apis-using-node-express4-and-docker/)
 
 [NodeSchool](http://nodeschool.io/)
 
