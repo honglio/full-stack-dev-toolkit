@@ -27,7 +27,12 @@ Debug Javascript & CSS in all platform.
 
 ## Hybrid App
 
-+ **[Aliyun test](http://itest.aliyun.com/home?type=msg)**: functional testing automata.
++ **[Cordova](https://cordova.apache.org/docs/en/latest/guide/appdev/whitelist/index.html)**: Whitelist Guide.
++ **[Crosswalk](https://crosswalk-project.org/documentation/android/deploy_to_android_store.html)**: Deploy to an Android app store.
++ **[Create your first app](http://cordova.apache.org/docs/en/latest/guide/cli/index.html#add-plugins)**: Cordova plugin install guide.
++ **[Plugin Search](http://cordova.apache.org/plugins/?q=cordova-plugin-camera)**: Cordova Plugin search.
++ **[Camera Module](https://www.npmjs.com/package/cordova-plugin-camera#module_Camera)**
++ **[Ionic](http://ionicframework.com/docs/guide/publishing.html)**: Publishing your app guide.
 
 ## Icon
 
