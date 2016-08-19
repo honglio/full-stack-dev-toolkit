@@ -91,6 +91,8 @@ H5 Video in Webview.
 + **[Touch events](https://patrickhlauke.github.io/touch/tests/results/)**: a variety of devices/browsers touch event order.
 + **[Viewport Size](http://viewportsizes.com/)**: Viewport Size in a variety of devices.
 + **[Mobiscroll](https://demo.mobiscroll.com/calendar)**: a collection of Javascript UI controls which perfectly fit into webview.
++ **[OnsenUI](https://onsen.io/v2/docs/js.html)**: OnsenUI Doc.
++ **[Vue.js](http://vuejs.org.cn/guide/list.html)**: Vue.js guide.
 
 [NodeSchool](http://nodeschool.io/)
 
