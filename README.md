@@ -74,46 +74,7 @@ H5 Video in Webview.
 + **[Viewport Size](http://viewportsizes.com/)**: Viewport Size in a variety of devices.
 + **[Mobiscroll](https://demo.mobiscroll.com/calendar)**: a collection of Javascript UI controls which perfectly fit into webview.
 
-## User Interface Components
 
-Drop-in UI components for web sites and applications.
-
-+ **[Buttons](user-interface-components/buttons.md)**: The term button refers to any graphical control element that provides the user a simple way to trigger an event, like searching for a query at a search engine, or to interact with dialog boxes, like confirming an action.
-+ **[Code](user-interface-components/code.md)**: Code viewers and editors designed for embedding inside a website.
-+ **[Forms](user-interface-components/forms.md)**: A HTML form on a web page allows a user to enter data that is sent to a server for processing. Web users fill out the forms using checkboxes, radio buttons, or text fields.
-+ **[Galeries & Image Sliders](user-interface-components/galeries-and-image-sliders.md)**: A sophisticated way to present a collection of images on your website.
-+ **[Grid](user-interface-components/grid.md)**: CSS Grid Layout Systems.
-+ **[Rich Text Editors](user-interface-components/rich-text-editors.md)**: A rich text editor is the interface for editing rich text within web browsers. The aim is to reduce the effort for users trying to express their formatting directly as valid HTML markup.
-+ **[Table Of Contents](user-interface-components/table-of-contents.md)**: Components for automatic table of contents generation.
-+ **[UI Kits](user-interface-components/ui-kits.md)**: Collections of ready to use components.
-+ **[Video & Audio](user-interface-components/video-and-audio.md)**: Components for playing audio and video files on a website.
-
-## Workflow
-
-Task automation and asset delivery.
-
-+ **[Automated Testing](workflow/automated-testing.md)**: Automated software testing is a process in which software tools execute pre-scripted tests on a software application before it is released into production.
-+ **[Build Tools](workflow/build-tools.md)**: Toolkits and their ecosystems, that help you automate painful and repeated tasks.
-+ **[CSS Tools](workflow/css-tools.md)**: Tools for analysis, pre and post processing of CSS files.
-+ **[Code Editors](workflow/code-editors.md)**: Text editor programs designed specifically for editing source code of a website.
-+ **[Documentation](workflow/documentation.md)**: Writing, generating, publishing and consuming documentation for web deliverables.
-+ **[Fonts for Programmers](workflow/fonts-for-programmers.md)**: Programmers need special fonts, which help align the code and distinguish between characters, that look alike.
-+ **[Getting Started](workflow/getting-started.md)**: Step by step guides for setting up a frontend development workflow.
-+ **[HTML Tools](workflow/html-tools.md)**: Tools for pre and post processing of the HTML source code.
-+ **[Image Post Processing](workflow/image-post-processing.md)**: Tools for image conversion and optimization.
-+ **[JavaScript Tools](workflow/javascript-tools.md)**: Tools for static analysis, pre and post processing of JavaScript files.
-+ **[Package Management](workflow/package-management.md)**: A package manager or package management system is a collection of software tools that automates the process of installing, upgrading, configuring, and removing reusable libraries and components in a consistent manner.
-+ **[Sourcemaps](workflow/sourcemaps.md)**: Sourcemap is a way to map a combined/minified file back to an unbuilt state.
-+ **[Version Control](workflow/version-control.md)**: Version control or source control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
-
-
-------------------
-
-# License
-
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
-
-Please provide a link back to this repository. This is not necessary for GitHub forks.
 
 [How to deploy RESTful APIs using Node, Express 4 and Docker](http://blog.cloud66.com/how-to-deploy-restful-apis-using-node-express4-and-docker/)
 
