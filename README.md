@@ -48,7 +48,10 @@ Important Web Server.
 + **[QQ互联API](http://connect.qq.com/manage/login)**
 + **[微博开放平台API](http://open.weibo.com/wiki/2/users/show)**
 + **[Linkedin开放平台](https://www.linkedin.com/developer/apps/4655291/usage)**
-+ **[Podcasts](ecosystem/podcasts.md)**: A podcast is a form of digital media that consists of an episodic series of audio, video, digital radio, PDF, or ePub files subscribed to and downloaded automatically through web syndication or streamed online to a computer or mobile device.
++ **[HTML2Jade](http://html2jade.org/)**
++ **[Express Reference](http://expressjs.com/en/api.html)**: Express.js 4.X API.
++ **[Asynchronous Error Handling](https://strongloop.com/strongblog/async-error-handling-expressjs-es7-promises-generators/)**: Asynchronous Error Handling in Express with Promises, Generators and ES7.
++ **[JavaScript Callbacks](http://cwbuecheler.com/web/tutorials/2013/javascript-callbacks/)**: Unlocking the Asynchronous Powers of NodeJS.
 
 ## Languages, Protocols, Browser APIs
 
