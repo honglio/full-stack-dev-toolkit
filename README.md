@@ -68,13 +68,11 @@ H5 Video in Webview.
 + **[Video Players](https://github.com/showcases/video-tools)**
 + **[Clappr](https://github.com/clappr/clappr)**: An extensible media player for the web.
 
-## Video
+## Webview
 
-H5 Video in Webview.
-
-+ **[Uniform Resource Identifier (URI)](languages-protocols-browser-apis/uniform-resource-identifier-uri.md)**: URI is a string of characters used to identify a resource. The most common form of URI is the Uniform Resource Locator (URL).
-+ **[Web Animations API](animation/web-animations-api.md)**: Web Animations is a new JavaScript API for driving animated content on the web. By unifying the animation features of SVG and CSS, Web Animations unlocks features previously only usable declaratively, and exposes powerful, high-performance animation capabilities to developers.
-+ **[WebAssembly](languages-protocols-browser-apis/webassembly.md)**: WebAssembly is meant to fill a place that JavaScript has been forced to occupy up to now: a low-level code representation that can serve as a compiler target.
++ **[Touch events](https://patrickhlauke.github.io/touch/tests/results/)**: a variety of devices/browsers touch event order.
++ **[Viewport Size](http://viewportsizes.com/)**: Viewport Size in a variety of devices.
++ **[Mobiscroll](https://demo.mobiscroll.com/calendar)**: a collection of Javascript UI controls which perfectly fit into webview.
 
 ## User Interface Components
 
