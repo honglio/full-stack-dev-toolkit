@@ -20,6 +20,7 @@ Debug Javascript & CSS in all platform.
 + **[iOS](http://moduscreate.com/enable-remote-web-inspector-in-ios-6/)**: Enable Remote Debugging with Safari Web Inspector in iOS.
 + **[Android](https://developers.google.com/web/tools/chrome-devtools/debug/?utm_source=dcc&utm_medium=redirect&utm_campaign=2016q3)**: Google Chrome DevTool.
 + **[All](http://people.apache.org/~pmuellr/weinre/docs/latest/)**: Debug web pages on any mobile device.
++ **[Unicode code converter](http://r12a.github.io/apps/conversion/)** Convert UTF-8 characters HTML markup
 
 ## Editor
 
