@@ -101,3 +101,5 @@ H5 Video in Webview.
 [TODOMVC](http://todomvc.com/examples/react/)
 
 [codeschool](https://github.com/codeschool/)
+
+[singlepageapp](http://singlepageappbook.com/)
