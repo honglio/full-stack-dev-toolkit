@@ -105,10 +105,3 @@ H5 Video in Webview.
 + **[voxmedia](http://apps.voxmedia.com/tools/meme/sbnation/)**: Twitter Image Builder.
 
 
-
-
-[TODOMVC](http://todomvc.com/examples/react/)
-
-[codeschool](https://github.com/codeschool/)
-
-[singlepageapp](http://singlepageappbook.com/)
