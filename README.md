@@ -35,6 +35,7 @@ Debug Javascript & CSS in all platform.
 + **[Camera Module](https://www.npmjs.com/package/cordova-plugin-camera#module_Camera)**
 + **[Ionic](http://ionicframework.com/docs/guide/publishing.html)**: Publishing your app guide.
 + **[Monaca](https://docs.monaca.io/en/quick_start/)**: Quick Start.
++ **[Ace](http://microsoft.github.io/ace/)**: Build Cordova apps with true native UI.
 
 ## Icon
 
@@ -75,6 +76,7 @@ MongoDB and SQL mapping.
 
 + **[Query joins](http://stackoverflow.com/questions/14363065/mongoose-mongodb-query-joins-but-i-come-from-a-sql-background)**
 + **[Mapping Relational Databases and SQL to MongoDB](http://code.tutsplus.com/articles/mapping-relational-databases-and-sql-to-mongodb--net-35650)**
++ **[Robomongo](https://robomongo.org/)** Cross-platform MongoDB management tool
 
 ## Testing Automata
 
