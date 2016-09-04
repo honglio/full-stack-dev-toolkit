@@ -26,7 +26,7 @@ Debug Javascript & CSS in all platform.
 
 + **[SublimeText](https://github.com/mrmartineau/SublimeTextSetupWiki/wiki/Front-end-specific-Packages)**: a list of all the good packages for front-end development.
 
-## Hybrid App
+## Hybrid Framework
 
 + **[Cordova](https://cordova.apache.org/docs/en/latest/guide/appdev/whitelist/index.html)**: Whitelist Guide.
 + **[Crosswalk](https://crosswalk-project.org/documentation/android/deploy_to_android_store.html)**: Deploy to an Android app store.
@@ -55,10 +55,9 @@ Web page speed go fast.
 + **[Web Rendering](http://frontendbabel.info/articles/webpage-rendering-101/)**: Web Rendering 101.
 + **[Retina Web](https://www.smashingmagazine.com/2012/08/towards-retina-web/)**
 + **[Web App](http://marcgg.com/blog/2014/04/09/phonegap-steroids-hybrid-native-app-tips/)**: Tips & Tricks Learned Releasing an Hybrid App.
++ **[picturefill](https://github.com/scottjehl/picturefill)**: A responsive image polyfill for <picture>, srcset, sizes.
 
 ## Node.js
-
-Important Web Server.
 
 + **[Passport](http://passportjs.org/)**: Simple, unobtrusive authentication for Node.js.
 + **[QQ互联API](http://connect.qq.com/manage/login)**
@@ -115,4 +114,8 @@ H5 Video in Webview.
 + **[voxmedia](http://apps.voxmedia.com/tools/meme/sbnation/)**: Twitter Image Builder.
 + **[Semantic UI](http://semantic-ui.com/)**: User Interface is the language of the web.
 
+## Awesome Library
 
++ **[velocity](http://velocityjs.org/)**: Accelerated JavaScript animation.
++ **[validator.js](https://github.com/chriso/validator.js)**: String validation and sanitization.
++ **[jQuery-Tags-Input](https://github.com/xoxco/jQuery-Tags-Input)**: Convert a simple text input into a cool tag list.
