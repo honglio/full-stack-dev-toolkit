@@ -85,6 +85,7 @@ MongoDB and SQL mapping.
 + **[Nightmare](http://www.nightmarejs.org/)**: A high-level browser automation library.
 + **[Macaca](https://macacajs.github.io/macaca/)**: Solution for Automation Test with Ease.
 + **[nock](https://github.com/node-nock/nock)**: HTTP mocking and expectations library for API module test.
++ **[pageres](https://github.com/sindresorhus/pageres)**: Capture website screenshots
 
 ## Video
 
