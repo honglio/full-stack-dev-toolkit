@@ -80,6 +80,7 @@ MongoDB and SQL mapping.
 
 + **[Aliyun test](http://itest.aliyun.com/home?type=msg)**: functional testing automata.
 + **[Sentry](https://app.getsentry.com/)**: real-time error tracking for server crashes.
++ **[Nightmare](http://www.nightmarejs.org/)**: A high-level browser automation library.
 
 ## Video
 
