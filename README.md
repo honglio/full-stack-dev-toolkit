@@ -69,6 +69,7 @@ Important Web Server.
 + **[Asynchronous Error Handling](https://strongloop.com/strongblog/async-error-handling-expressjs-es7-promises-generators/)**: Asynchronous Error Handling in Express with Promises, Generators and ES7.
 + **[JavaScript Callbacks](http://cwbuecheler.com/web/tutorials/2013/javascript-callbacks/)**: Unlocking the Asynchronous Powers of NodeJS.
 + **[Express 4.X RESTful APIs](http://blog.cloud66.com/how-to-deploy-restful-apis-using-node-express4-and-docker/)**: How to deploy RESTful APIs using Node, Express 4 and Docker.
++ **[loopback](http://loopback.io/)**: Quickly create dynamic end-to-end REST APIs..
 
 ## MongoDB
 
