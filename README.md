@@ -71,6 +71,7 @@ Important Web Server.
 + **[Express 4.X RESTful APIs](http://blog.cloud66.com/how-to-deploy-restful-apis-using-node-express4-and-docker/)**: How to deploy RESTful APIs using Node, Express 4 and Docker.
 + **[loopback](http://loopback.io/)**: Quickly create dynamic end-to-end REST APIs.
 + **[socket.io](http://socket.io/)**: Realtime application and notification framework.
++ **[pm2](http://pm2.io)**: Production process manager for Node.js apps with a built-in load balancer
 
 ## MongoDB
 
