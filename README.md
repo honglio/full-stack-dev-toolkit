@@ -25,6 +25,7 @@ Debug Javascript & CSS in all platform.
 ## Editor
 
 + **[SublimeText](https://github.com/mrmartineau/SublimeTextSetupWiki/wiki/Front-end-specific-Packages)**: a list of all the good packages for front-end development.
++ **[SublimeHighlight](https://github.com/n1k0/SublimeHighlight)**: A humble SublimeText package for exporting highlighted code as RTF or HTML.
 
 ## Hybrid Framework
 
