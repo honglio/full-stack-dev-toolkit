@@ -73,13 +73,14 @@ Web page speed go fast.
 + **[socket.io](http://socket.io/)**: Realtime application and notification framework.
 + **[pm2](http://pm2.io)**: Production process manager for Node.js apps with a built-in load balancer
 
-## MongoDB
+## Database
 
-MongoDB and SQL mapping.
+MongoDB and NOSQL DB.
 
 + **[Query joins](http://stackoverflow.com/questions/14363065/mongoose-mongodb-query-joins-but-i-come-from-a-sql-background)**
 + **[Mapping Relational Databases and SQL to MongoDB](http://code.tutsplus.com/articles/mapping-relational-databases-and-sql-to-mongodb--net-35650)**
-+ **[Robomongo](https://robomongo.org/)** Cross-platform MongoDB management tool
++ **[Robomongo](https://robomongo.org/)** Cross-platform MongoDB management tool.
++ **[Horizon](http://horizon.io/)** Build powerful web and mobile apps that scale.
 
 ## Testing Automata
 
