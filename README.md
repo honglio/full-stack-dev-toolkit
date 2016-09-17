@@ -90,6 +90,7 @@ MongoDB and NOSQL DB.
 + **[Macaca](https://macacajs.github.io/macaca/)**: Solution for Automation Test with Ease.
 + **[nock](https://github.com/node-nock/nock)**: HTTP mocking and expectations library for API module test.
 + **[pageres](https://github.com/sindresorhus/pageres)**: Capture website screenshots
++ **[reqres](http://reqres.in/)**: Test your front-end against a real API
 
 ## Video
 
