@@ -6,43 +6,16 @@ This is the current version, which receives ongoing updates.
 
 ---------------------------------------------------------
 
-## CDN
+## Awesome JS Library
 
-The fastest Public CDN for a website in China.
-
-+ **[sinaapp](http://lib.sinaapp.com/)**: The Public Resources on SAE.
-+ **[baiducloud](https://cloud.baidu.com/doc/index.html?title=docs/cplat/libs)**: 产品文档-百度开放云.
-
-## Debug
-
-Debug Javascript & CSS in all platform.
-
-+ **[iOS](http://moduscreate.com/enable-remote-web-inspector-in-ios-6/)**: Enable Remote Debugging with Safari Web Inspector in iOS.
-+ **[Android](https://developers.google.com/web/tools/chrome-devtools/debug/?utm_source=dcc&utm_medium=redirect&utm_campaign=2016q3)**: Google Chrome DevTool.
-+ **[All](http://people.apache.org/~pmuellr/weinre/docs/latest/)**: Debug web pages on any mobile device.
-+ **[Unicode code converter](http://r12a.github.io/apps/conversion/)** Convert UTF-8 characters HTML markup
++ **[velocity](http://velocityjs.org/)**: Accelerated JavaScript animation.
++ **[validator.js](https://github.com/chriso/validator.js)**: String validation and sanitization.
++ **[jQuery-Tags-Input](https://github.com/xoxco/jQuery-Tags-Input)**: Convert a simple text input into a cool tag list.
 
 ## Editor
 
 + **[SublimeText](https://github.com/mrmartineau/SublimeTextSetupWiki/wiki/Front-end-specific-Packages)**: a list of all the good packages for front-end development.
 + **[SublimeHighlight](https://github.com/n1k0/SublimeHighlight)**: A humble SublimeText package for exporting highlighted code as RTF or HTML.
-
-## Hybrid Framework
-
-+ **[Cordova](https://cordova.apache.org/docs/en/latest/guide/appdev/whitelist/index.html)**: Whitelist Guide.
-+ **[Crosswalk](https://crosswalk-project.org/documentation/android/deploy_to_android_store.html)**: Deploy to an Android app store.
-+ **[Create your first app](http://cordova.apache.org/docs/en/latest/guide/cli/index.html#add-plugins)**: Cordova plugin install guide.
-+ **[Plugin Search](http://cordova.apache.org/plugins/?q=cordova-plugin-camera)**: Cordova Plugin search.
-+ **[Camera Module](https://www.npmjs.com/package/cordova-plugin-camera#module_Camera)**
-+ **[Ionic](http://ionicframework.com/docs/guide/publishing.html)**: Publishing your app guide.
-+ **[Monaca](https://docs.monaca.io/en/quick_start/)**: Quick Start.
-+ **[Ace](http://microsoft.github.io/ace/)**: Build Cordova apps with true native UI.
-
-## Icon
-
-+ **[IconMoon](https://icomoon.io/app/#/select)**: Icon font, SVG, PDF & PNG generator.
-+ **[Fontello](http://fontello.com/)**: Icon font generator.
-+ **[Favicon Generator](http://realfavicongenerator.net/)**: Favicon Generator for all platforms.
 
 ## Performance
 
@@ -63,10 +36,6 @@ Web page speed go fast.
 Node.js & Express.js
 
 + **[Passport](http://passportjs.org/)**: Simple, unobtrusive authentication for Node.js.
-+ **[QQ互联API](http://connect.qq.com/manage/login)**
-+ **[微博开放平台API](http://open.weibo.com/wiki/2/users/show)**
-+ **[Linkedin开放平台](https://www.linkedin.com/developer/apps/4655291/usage)**
-+ **[HTML2Jade](http://html2jade.org/)**
 + **[Express Reference](http://expressjs.com/en/api.html)**: Express.js 4.X API.
 + **[Asynchronous Error Handling](https://strongloop.com/strongblog/async-error-handling-expressjs-es7-promises-generators/)**: Asynchronous Error Handling in Express with Promises, Generators and ES7.
 + **[JavaScript Callbacks](http://cwbuecheler.com/web/tutorials/2013/javascript-callbacks/)**: Unlocking the Asynchronous Powers of NodeJS.
@@ -82,6 +51,15 @@ MongoDB and API.
 + **[Robomongo](https://robomongo.org/)** Cross-platform MongoDB management tool.
 + **[loopback](http://loopback.io/)**: Quickly create dynamic end-to-end REST APIs.
 
+## Debuger
+
+Debug Javascript & CSS in all platform.
+
++ **[iOS](http://moduscreate.com/enable-remote-web-inspector-in-ios-6/)**: Enable Remote Debugging with Safari Web Inspector in iOS.
++ **[Android](https://developers.google.com/web/tools/chrome-devtools/debug/?utm_source=dcc&utm_medium=redirect&utm_campaign=2016q3)**: Google Chrome DevTool.
++ **[All](http://people.apache.org/~pmuellr/weinre/docs/latest/)**: Debug web pages on any mobile device.
++ **[Unicode code converter](http://r12a.github.io/apps/conversion/)** Convert UTF-8 characters HTML markup
+
 ## Testing Automata
 
 + **[Aliyun test](http://itest.aliyun.com/home?type=msg)**: functional testing automata.
@@ -91,21 +69,42 @@ MongoDB and API.
 + **[pageres](https://github.com/sindresorhus/pageres)**: Capture website screenshots
 + **[reqres](http://reqres.in/)**: Test your front-end against a real API
 
-## Video
-
-H5 Video in Webview.
+## HTML5 Video
 
 + **[Stop Webview thread](http://stackoverflow.com/questions/5946698/how-to-stop-youtube-video-playing-in-android-webview)**: How to stop video playing in Android webview when back button pressed.
 + **[Video Players](https://github.com/showcases/video-tools)**
 + **[Clappr](https://github.com/clappr/clappr)**: An extensible media player for the web.
 
-## Webview
+## Icon font & Favicon
+
++ **[IconMoon](https://icomoon.io/app/#/select)**: Icon font, SVG, PDF & PNG generator.
++ **[Fontello](http://fontello.com/)**: Icon font generator.
++ **[Favicon Generator](http://realfavicongenerator.net/)**: Favicon Generator for all platforms.
+
+## Webview App Framework
 
 + **[Touch events](https://patrickhlauke.github.io/touch/tests/results/)**: a variety of devices/browsers touch event order.
 + **[Viewport Size](http://viewportsizes.com/)**: Viewport Size in a variety of devices.
 + **[Mobiscroll](https://demo.mobiscroll.com/calendar)**: a collection of Javascript UI controls which perfectly fit into webview.
 + **[OnsenUI](https://onsen.io/v2/docs/js.html)**: OnsenUI Doc.
 + **[Vue.js](http://vuejs.org.cn/guide/list.html)**: Vue.js guide.
+
+## Hybrid APP Framework
+
++ **[Cordova](https://cordova.apache.org/docs/en/latest/guide/appdev/whitelist/index.html)**: Whitelist Guide.
++ **[Crosswalk](https://crosswalk-project.org/documentation/android/deploy_to_android_store.html)**: Deploy to an Android app store.
++ **[Create your first app](http://cordova.apache.org/docs/en/latest/guide/cli/index.html#add-plugins)**: Cordova plugin install guide.
++ **[Plugin Search](http://cordova.apache.org/plugins/?q=cordova-plugin-camera)**: Cordova Plugin search.
++ **[Camera Module](https://www.npmjs.com/package/cordova-plugin-camera#module_Camera)**
++ **[Ionic](http://ionicframework.com/docs/guide/publishing.html)**: Publishing your app guide.
+
+## CDN & 3rd party API.
+
++ **[sinaapp](http://lib.sinaapp.com/)**: The Public Resources on SAE.
++ **[baiducloud](https://cloud.baidu.com/doc/index.html?title=docs/cplat/libs)**: 产品文档-百度开放云.
++ **[QQ互联API](http://connect.qq.com/manage/login)**
++ **[微博开放平台API](http://open.weibo.com/wiki/2/users/show)**
++ **[Linkedin开放平台](https://www.linkedin.com/developer/apps/4655291/usage)**
 
 ## WevApp design and semantic
 
@@ -115,9 +114,3 @@ H5 Video in Webview.
 + **[Nirvana](https://www.nirvanahq.com/)**: ToDo App.
 + **[voxmedia](http://apps.voxmedia.com/tools/meme/sbnation/)**: Twitter Image Builder.
 + **[Semantic UI](http://semantic-ui.com/)**: User Interface is the language of the web.
-
-## Awesome Library
-
-+ **[velocity](http://velocityjs.org/)**: Accelerated JavaScript animation.
-+ **[validator.js](https://github.com/chriso/validator.js)**: String validation and sanitization.
-+ **[jQuery-Tags-Input](https://github.com/xoxco/jQuery-Tags-Input)**: Convert a simple text input into a cool tag list.
