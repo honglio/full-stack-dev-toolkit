@@ -11,15 +11,14 @@ This is the current version, which receives ongoing updates.
 + **[velocity](http://velocityjs.org/)**: Accelerated JavaScript animation.
 + **[validator.js](https://github.com/chriso/validator.js)**: String validation and sanitization.
 + **[jQuery-Tags-Input](https://github.com/xoxco/jQuery-Tags-Input)**: Convert a simple text input into a cool tag list.
++ **[picturefill](https://github.com/scottjehl/picturefill)**: A responsive image polyfill for <picture>, srcset, sizes.
 
 ## Editor
 
 + **[SublimeText](https://github.com/mrmartineau/SublimeTextSetupWiki/wiki/Front-end-specific-Packages)**: a list of all the good packages for front-end development.
 + **[SublimeHighlight](https://github.com/n1k0/SublimeHighlight)**: A humble SublimeText package for exporting highlighted code as RTF or HTML.
 
-## Performance
-
-Web page speed go fast.
+## Performance Tips
 
 + **[WebPageTest](https://www.webpagetest.org/)**: Test a website's performance.
 + **[Webmasters](https://www.google.com/webmasters/tools/mobile-friendly/)**: Mobile friendly test.
@@ -29,7 +28,6 @@ Web page speed go fast.
 + **[Web Rendering](http://frontendbabel.info/articles/webpage-rendering-101/)**: Web Rendering 101.
 + **[Retina Web](https://www.smashingmagazine.com/2012/08/towards-retina-web/)**
 + **[Web App](http://marcgg.com/blog/2014/04/09/phonegap-steroids-hybrid-native-app-tips/)**: Tips & Tricks Learned Releasing an Hybrid App.
-+ **[picturefill](https://github.com/scottjehl/picturefill)**: A responsive image polyfill for <picture>, srcset, sizes.
 
 ## Web Server
 
@@ -53,7 +51,7 @@ MongoDB and API.
 
 ## Debuger
 
-Debug Javascript & CSS in all platform.
+Debug Javascript & CSS for all platform.
 
 + **[iOS](http://moduscreate.com/enable-remote-web-inspector-in-ios-6/)**: Enable Remote Debugging with Safari Web Inspector in iOS.
 + **[Android](https://developers.google.com/web/tools/chrome-devtools/debug/?utm_source=dcc&utm_medium=redirect&utm_campaign=2016q3)**: Google Chrome DevTool.
