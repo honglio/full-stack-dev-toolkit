@@ -63,8 +63,7 @@ Debug Javascript & CSS for all platform.
 + **[Sentry](https://app.getsentry.com/)**: real-time error tracking for server crashes.
 + **[Nightmare](http://www.nightmarejs.org/)**: A high-level browser automation library.
 + **[Macaca](https://macacajs.github.io/macaca/)**: Solution for Automation Test with Ease.
-+ **[pageres](https://github.com/sindresorhus/pageres)**: Capture website screenshots
-+ **[reqres](http://reqres.in/)**: Test your front-end against a real API
++ **[reqres](http://reqres.in/)**: Test your front-end against a real API.
 
 ## HTML5 Video
 
