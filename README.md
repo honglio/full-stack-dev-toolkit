@@ -64,6 +64,7 @@ Debug Javascript & CSS for all platform.
 + **[Nightmare](http://www.nightmarejs.org/)**: A high-level browser automation library.
 + **[Macaca](https://macacajs.github.io/macaca/)**: Solution for Automation Test with Ease.
 + **[reqres](http://reqres.in/)**: Test your front-end against a real API.
++ **[AWS Device Farm](http://aws.amazon.com/device-farm/)**: Testing against real mobile devices in the AWS Cloud.
 
 ## HTML5 Video
 
