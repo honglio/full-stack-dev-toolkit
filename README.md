@@ -58,14 +58,6 @@ Debug Javascript & CSS for all platform.
 + **[All](http://people.apache.org/~pmuellr/weinre/docs/latest/)**: Debug web pages on any mobile device.
 + **[Unicode code converter](http://r12a.github.io/apps/conversion/)** Convert UTF-8 characters HTML markup
 
-## Testing Automata
-
-+ **[Sentry](https://app.getsentry.com/)**: real-time error tracking for server crashes.
-+ **[Nightmare](http://www.nightmarejs.org/)**: A high-level browser automation library.
-+ **[Macaca](https://macacajs.github.io/macaca/)**: Solution for Automation Test with Ease.
-+ **[reqres](http://reqres.in/)**: Test your front-end against a real API.
-+ **[AWS Device Farm](http://aws.amazon.com/device-farm/)**: Testing against real mobile devices in the AWS Cloud.
-
 ## HTML5 Video
 
 + **[Stop Webview thread](http://stackoverflow.com/questions/5946698/how-to-stop-youtube-video-playing-in-android-webview)**: How to stop video playing in Android webview when back button pressed.
