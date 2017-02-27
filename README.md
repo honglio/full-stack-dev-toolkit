@@ -18,6 +18,10 @@ This is the current version, which receives ongoing updates.
 + **[EJS](http://ejs.co/)**: Official site
 + **[EmbaddedEJS](http://www.embeddedjs.com/)**: EJS testing board.
 
+## CSS Tricks
+
++ **[Equal Height Columns](http://callmenick.com/post/css-equal-height-columns-three-different-ways)**: Three Different Ways.
+
 ## Editor
 
 + **[SublimeText](https://github.com/mrmartineau/SublimeTextSetupWiki/wiki/Front-end-specific-Packages)**: a list of all the good packages for front-end development.
