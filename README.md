@@ -13,6 +13,11 @@ This is the current version, which receives ongoing updates.
 + **[picturefill](https://github.com/scottjehl/picturefill)**: A responsive image polyfill for <picture>, srcset, sizes.
 + **[pulltorefresh](https://www.boxfactura.com/pulltorefresh.js/)**: A small, but powerful Javascript library crafted to power your webapp's pull to refresh feature. No markup needed, highly customizable and dependency-free!
 
+## JS Template
+
++ **[EJS](http://ejs.co/)**: Official site
++ **[EmbaddedEJS](http://www.embeddedjs.com/)**: EJS testing board.
+
 ## Editor
 
 + **[SublimeText](https://github.com/mrmartineau/SublimeTextSetupWiki/wiki/Front-end-specific-Packages)**: a list of all the good packages for front-end development.
