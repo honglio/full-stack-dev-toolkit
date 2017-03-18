@@ -12,6 +12,7 @@ This is the current version, which receives ongoing updates.
 + **[jQuery-Tags-Input](https://github.com/xoxco/jQuery-Tags-Input)**: Convert a simple text input into a cool tag list.
 + **[picturefill](https://github.com/scottjehl/picturefill)**: A responsive image polyfill for <picture>, srcset, sizes.
 + **[pulltorefresh](https://www.boxfactura.com/pulltorefresh.js/)**: A small, but powerful Javascript library crafted to power your webapp's pull to refresh feature. No markup needed, highly customizable and dependency-free!
++ **[Google Invisible reCAPTCHA](https://developers.google.com/recaptcha/docs/invisible/)**: This page explains how to enable and customize the invisible reCAPTCHA on your webpage.
 
 ## JS Template
 
